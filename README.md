@@ -1,4 +1,4 @@
-# STINTSY Group 9 MP: Family Income and Expenditure Survey 2012 Analysis
+# PSA Family Income and Expenditure Survey 2012 Analysis using Machine Learning
 
 ## Overview
 
